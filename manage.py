@@ -2,7 +2,7 @@
 """Django's command-line utility for administrative indrani tasks."""
 import os
 import sys
-
+" Hey guys this is indrani"
 
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'todoApp.settings')
